@@ -5,6 +5,11 @@
 
 This project aims to process image files to generate usable patches; perform a series of image processing operations on images, including rotation, flipping, and cropping. The processed images will be saved in the specified output directory.
 
+## Paper
+
+Paper describing this work has been published in Frontiers of Computer Science (FCS) special column “Code & Data”.
+Cited as:  Fei GUO, Shaojia YANG, Rui GE, Wenjuan LI, Aihong LU, Rongzhen FENG, Wu FANG, Qiangguo JIN. RetinaDA: a diverse dataset for domain adaptation in retinal vessel segmentation. Front. Comput. Sci., 2025, 19(8): 198917 https://doi.org/10.1007/s11704-024-41114-1
+
 ## Feature Description
 
 1. **Format Conversion**: Convert images from GIF or TIF formats to PNG format.
